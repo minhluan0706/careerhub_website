@@ -1,0 +1,31 @@
+.e-input-group{
+  display: inline-block;
+  width: 100%;
+  position: relative;
+}
+.e-chips{
+  background-color: #e6e6e6;
+  border-radius: 4px;
+  height: 30px;
+  display: inline-flex;
+  float: left;
+  margin: 2px 4px 2px 0;
+  padding: 0px 5px;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-align: center;
+}
+.e-chipcontent{
+  color: #333;
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+  font-size: 15px;
+  max-width: 100%;
+  line-height: 1;
+  overflow: hidden;
+  padding: 6px 10px 6px 10px;
+  text-indent: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
