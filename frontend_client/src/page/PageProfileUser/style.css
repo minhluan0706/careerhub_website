@@ -1,0 +1,225 @@
+/* body{
+    background:#f5f5f5;
+}
+.panel {
+  box-shadow: none;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.panel-heading {
+  border-bottom: 0;
+  padding: 10px 15px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.panel-title {
+  font-size: 17px;
+}
+.panel-title > small {
+  font-size: .75em;
+  color: #999999;
+}
+.panel-body *:first-child {
+  margin-top: 0;
+}
+.panel-body{
+    padding: 15px;
+    box-sizing: border-box;
+}
+.panel-footer {
+  border-top: 0;
+}
+
+.panel-default > .panel-heading {
+    color: #333333;
+    background-color: transparent;
+    border-color: rgba(0, 0, 0, 0.07);
+}
+
+.panel-default{
+    border-color: #ddd;
+    position: relative;
+    display: grid;
+}
+
+form label {
+    color: #999999;
+    font-weight: 400;
+}
+
+.form-horizontal .form-group {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.form-horizontal{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 5px;
+}
+.width1{
+    max-width: none;
+}
+.width2{
+   width: 70%;
+   display: table-cell;
+}
+
+.input-form {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+@media (min-width: 768px) {
+  .form-horizontal .control-label {
+    text-align: left;
+    margin-bottom: 0;
+    padding-top: 7px;
+  }
+}
+
+.control-label{
+    float: left;
+}
+
+.profile__contact-info-icon {
+    float: left;
+    font-size: 18px;
+    color: #999999;
+}
+.profile__contact-info-body {
+    overflow: hidden;
+    padding-left: 20px;
+    color: #999999;
+}
+.profile-avatar {
+  width: 120px;
+  position: relative;
+  margin: 0px auto;
+  margin-top: 196px;
+  border: 4px solid #f3f3f3;
+  border-radius: 50%
+}
+.form-groupstyle{
+    display: table;
+    position: relative;
+    width: 100%;
+}
+.tyle{
+    position: relative;
+    display: table;
+    width: 100%;
+}
+.width3{
+    display: table-cell;
+    width: 60%;
+}
+.txt-title{
+    font-size: 24px;
+    position: relative;
+    text-align: center;
+    left: -60px;
+}
+.mt-100{
+    margin-top:100px
+}
+.container-style{
+    margin-right: 10px
+} */
+
+.img-circle{
+  border-radius: 50%;
+}
+.txt-img{
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.center-block{
+  width: 100%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.input-form {
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+  transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+.form-group h4{
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    margin-bottom: 0px
+}
+.form-style{
+  margin-bottom: 15px;
+}
+.col-xs-6{
+  width: 50%;
+  float: left;
+  position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col-xs-12{
+  width: 100%;
+  text-align: center;
+}
+.nav-tabs > li {
+  float: left;
+  margin-bottom: -1px;
+}
+.nav > li{
+  position: relative;
+  display: block;
+}
+.nav-tabs>li.active>a{
+  color: #555;
+  cursor: default;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-bottom-color: transparent;
+}
+.nav-tabs>li>a{
+  margin-right: 2px;
+    line-height: 1.42857143;
+    border-radius: 4px 4px 0 0;
+}
+.nav>li>a{
+  position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+a{
+  text-decoration: none;
+}
